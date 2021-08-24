@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-this fileis created whilelearning
+this file is created while learning
